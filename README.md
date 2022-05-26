@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@Tumworobere](https://github.com/Tumworobere)
 - Twitter: [Twitter](https://twitter.com/Tannah2090)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/annah-tumworobere-6258b443)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/annah-tumworobere-)
 
 
 ## 🤝 Contributing
