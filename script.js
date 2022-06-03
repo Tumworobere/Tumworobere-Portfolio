@@ -47,15 +47,15 @@ window.addEventListener('resize', () => {
 // Project Card Data
 const data = [
   {
-    project_img: './images/gordon.png',
+    project_img: './images/tannah.png',
     project_title: 'Book an Appointment',
     project_info_title: 'Microverse',
     counter_image: './images/Counter.svg',
     project_info_text: ['Front-End', 'Back-End', '2022'],
     project_description: 'I built this project with a team of four for the Final Capstone Project while at Microverse. It is based on an app to book an appointment with a doctor. We followed the given design of the website, but we personalized the content. This project uses two apps, one is a backend which is a rails APi and a React frontend.',
     tags: ['React', 'Rails', 'Redux', 'javascript'],
-    live_version: 'https://frontend-doctor-api1.netlify.app/',
-    source_code: 'https://github.com/sja-thedude/book-an-appointment-backend',
+    live_version: 'https://air-rovers-frontend-app.vercel.app/',
+    source_code: 'https://github.com/Tumworobere/AirRovers-Frontend-App',
   },
   {
     project_img: './images/budget.png',
@@ -66,7 +66,7 @@ const data = [
     project_description: 'This is a Ruby on Rails project. It is about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.',
     tags: ['Ruby', 'Rails', 'PostgreSQL'],
     live_version: 'https://fast-scrubland-47961.herokuapp.com/',
-    source_code: 'https://github.com/1GORDON/Manage-budget',
+    source_code: 'https://github.com/Tumworobere/Budget-Tracker.git',
   },
   {
     project_img: './images/bookstore.png',
@@ -77,7 +77,7 @@ const data = [
     project_description: 'The Bookstore is an application for displaying a list of books, adding a book, and removing a selected book. I built this application using React and Redux and a remote API to fetch and display books with their corresponding categories.',
     tags: ['React', 'Redux', 'javascript'],
     live_version: 'https://bookstore-style.netlify.app/',
-    source_code: 'https://github.com/1GORDON/Bookstore',
+    source_code: 'https://github.com/Tumworobere/Bookstore',
   },
   {
     project_img: './images/space.png',
@@ -87,8 +87,8 @@ const data = [
     project_info_text: ['Front-End', '2021'],
     project_description: 'The Space Travelers\' Hub is a React app where we used, components, hooks, state, redux, and run tests. It consists of Rockets, Missions, and the My Profile section. The Rockets section displays a list of all available SpaceX rockets. The Missions section displays a list of current missions along with their brief description and participation status. The Dragons section displays a list of all available SpaceX dragons. The My Profile section displays all reserved rockets and space missions.',
     tags: ['React', 'Redux', 'javascript'],
-    live_version: 'https://sjathedude-spacetravellershub.netlify.app/',
-    source_code: 'https://github.com/sja-thedude/Space-Travelers-Hub',
+    live_version: 'https://space-travelers-hub2-0.vercel.app/',
+    source_code: 'https://github.com/Tumworobere/space-travelers-hub2.0.git',
   },
   {
     project_img: './images/math.png',
@@ -98,8 +98,8 @@ const data = [
     project_info_text: ['Front-End', '2021'],
     project_description: 'In this project, I built an Application that performs Mathematical computations, displays a home page, and also displays a quote from a remote API. This was built using Javascript, React Router, and API. It displays SPA.',
     tags: ['React', 'Redux', 'React-router'],
-    live_version: 'https://math-magicians-gordon.netlify.app/',
-    source_code: 'https://github.com/1GORDON/Math-Magicians',
+    live_version: 'https://dazzling-knuth-69f0e5.netlify.app/',
+    source_code: 'https://github.com/Tumworobere/Math-Magicians.git',
   },
   {
     project_img: './images/awesome.png',
@@ -109,8 +109,8 @@ const data = [
     project_info_text: ['Front-End', '2021'],
     project_description: 'This project allows users to add/remove books from a list. This was achieved using JavaScript objects and arrays, JavaScript Classes, and Single Page Application (SPA).',
     tags: ['HTML', 'css', 'javascript'],
-    live_version: 'https://1gordon.github.io/Awesome-books/',
-    source_code: 'https://github.com/1GORDON/Awesome-books',
+    live_version: 'https://tumworobere.github.io/Awesome-Books/',
+    source_code: 'https://github.com/Tumworobere/Awesome-Books.git',
   },
   {
     project_img: './images/capstone1.png',
@@ -120,8 +120,8 @@ const data = [
     project_info_text: ['Front-End', '2021'],
     project_description: 'This is my Capstone Project for Module 1 at Microverse where I was required to build a website that provided information about the upcoming conference. I built this using HTML, CSS, and JavaScript.',
     tags: ['html', 'css', 'javascript'],
-    live_version: 'https://capstone-module1.netlify.app/',
-    source_code: 'https://github.com/1GORDON/Capstone-Module1',
+    live_version: 'https://tumworobere.github.io/HTML-CSS-JavaScript-Capstone-Project/',
+    source_code: 'https://github.com/Tumworobere/HTML-CSS-JavaScript-Capstone-Project.git',
   },
 ];
 
