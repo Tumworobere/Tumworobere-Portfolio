@@ -7,8 +7,6 @@ This is a simple website to display my projects and skills. It is built with HTM
 - HTML, CSS,Javascript
 - Linters, Markdown
 - GitHub Flow 
-## Live Demo
-[Link to My Portfolio](https://github.com/Tumworobere/Personal-Portfolio.git)
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
