@@ -52,7 +52,7 @@ const data = [
     project_info_title: 'Microverse',
     counter_image: './images/Counter.svg',
     project_info_text: ['Front-End', 'Back-End', '2022'],
-    project_description: 'I built this project with a team of four for the Final Capstone Project while at Microverse. It is based on an app to reserver an airplane with a reservation company. We followed the given design of the website, but we personalized the content. This project uses two apps, one is a backend which is a rails APi and a React frontend.',
+    project_description: 'I built this project with a team of four for the Final Capstone Project while at Microverse. It is based on an app to reserve an airplane with a reservation company. We followed the given design of the website, but we personalized the content. This project uses two apps, one is a backend which is a rails APi and a React frontend.',
     tags: ['React', 'Rails', 'Redux', 'javascript'],
     live_version: 'https://air-rovers-frontend-app.vercel.app/',
     source_code: 'https://github.com/Tumworobere/AirRovers-Frontend-App',
